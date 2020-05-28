@@ -13,9 +13,1113 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-05-28T11:30:13.491-07:00
+  lastUpdatedAtString: 2020-05-28T11:34:33.141-07:00
   initializedAtString: 2020-05-28T11:30:13.491-07:00
   log:
+  - commitID: 97cca54ddb86146f05cf308144fdd4a7bd0be793
+    mergeA: 
+    mergeB: 
+    authorName: Anaya Crouch
+    authorEmail: acrouch1557@gmail.com
+    commitEmail: acrouch1557@gmail.com
+    commitName: Anaya Crouch
+    summary: Week 4 Git Changes
+    description: capsule movement, camera follow
+    timeString: 2020-05-28T11:33:57.000-07:00
+    commitTimeString: 2020-05-28T11:33:57.000-07:00
+    changes:
+    - path: .DS_Store
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/.DS_Store
+      projectPath: ../.DS_Store
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/.DS_Store
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/.DS_Store
+      projectPath: .DS_Store
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins.meta
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins.meta
+      projectPath: Assets/Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub.meta
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub.meta
+      projectPath: Assets/Plugins/GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor.meta
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor.meta
+      projectPath: Assets/Plugins/GitHub/Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+      projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+      projectPath: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+      projectPath: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+      projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+      projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+      projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/System.Threading.dll
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/System.Threading.dll
+      projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+      projectPath: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+      projectPath: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/big-logo@2x.png
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/big-logo@2x.png
+      projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+      projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/credits.txt
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/credits.txt
+      projectPath: Assets/Plugins/GitHub/Editor/credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/credits.txt.meta
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/credits.txt.meta
+      projectPath: Assets/Plugins/GitHub/Editor/credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/eula.txt
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/eula.txt
+      projectPath: Assets/Plugins/GitHub/Editor/eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/eula.txt.meta
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/eula.txt.meta
+      projectPath: Assets/Plugins/GitHub/Editor/eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/libsfw.bundle
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/libsfw.bundle
+      projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+      projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/libsfw.so
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/libsfw.so
+      projectPath: Assets/Plugins/GitHub/Editor/libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/libsfw.so.meta
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/libsfw.so.meta
+      projectPath: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/sfw.net.dll
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/sfw.net.dll
+      projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/x64.meta
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/x64.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+      projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+      projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/x86.meta
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/x86.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+      projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+      projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Scripts.meta
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Scripts.meta
+      projectPath: Assets/Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Scripts/Follow.cs
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Scripts/Follow.cs
+      projectPath: Assets/Scripts/Follow.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Assets/Scripts/Follow.cs.meta
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Assets/Scripts/Follow.cs.meta
+      projectPath: Assets/Scripts/Follow.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/APIUpdater/project-dependencies.graph
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/APIUpdater/project-dependencies.graph
+      projectPath: Library/APIUpdater/project-dependencies.graph
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/ArtifactDB
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/ArtifactDB
+      projectPath: Library/ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/04/04939885a0fceb6f6544b9b0c6c2f919
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/04/04939885a0fceb6f6544b9b0c6c2f919
+      projectPath: Library/Artifacts/04/04939885a0fceb6f6544b9b0c6c2f919
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/16/1626ba68c29b53fd70e042201a90684f
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/16/1626ba68c29b53fd70e042201a90684f
+      projectPath: Library/Artifacts/16/1626ba68c29b53fd70e042201a90684f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/18/18dc4cdf9e9c1f8c069f436259fc1a3a
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/18/18dc4cdf9e9c1f8c069f436259fc1a3a
+      projectPath: Library/Artifacts/18/18dc4cdf9e9c1f8c069f436259fc1a3a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/1a/1a958233f128073ed54f1d9404106cd1
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/1a/1a958233f128073ed54f1d9404106cd1
+      projectPath: Library/Artifacts/1a/1a958233f128073ed54f1d9404106cd1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/1e/1ee2ef42d2c5921993f7cf33b113605f
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/1e/1ee2ef42d2c5921993f7cf33b113605f
+      projectPath: Library/Artifacts/1e/1ee2ef42d2c5921993f7cf33b113605f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/21/2105c4baded104cda6d65cbdf0d5449c
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/21/2105c4baded104cda6d65cbdf0d5449c
+      projectPath: Library/Artifacts/21/2105c4baded104cda6d65cbdf0d5449c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/23/23b9eb46b2b1c95b71455239c10d9854
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/23/23b9eb46b2b1c95b71455239c10d9854
+      projectPath: Library/Artifacts/23/23b9eb46b2b1c95b71455239c10d9854
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/24/2469acb8f3b3fd3dab9b3ea8ca943673
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/24/2469acb8f3b3fd3dab9b3ea8ca943673
+      projectPath: Library/Artifacts/24/2469acb8f3b3fd3dab9b3ea8ca943673
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/2d/2dbdd23f48c1787d2f25dd639ddc5f17
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/2d/2dbdd23f48c1787d2f25dd639ddc5f17
+      projectPath: Library/Artifacts/2d/2dbdd23f48c1787d2f25dd639ddc5f17
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/39/39c90b9ae48fc1620bc8d6556f953fda
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/39/39c90b9ae48fc1620bc8d6556f953fda
+      projectPath: Library/Artifacts/39/39c90b9ae48fc1620bc8d6556f953fda
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/3f/3ffbf98b70995194a28c65c85891b35b
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/3f/3ffbf98b70995194a28c65c85891b35b
+      projectPath: Library/Artifacts/3f/3ffbf98b70995194a28c65c85891b35b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/42/425b1d6eea647ce6f4d728184c12ab3c
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/42/425b1d6eea647ce6f4d728184c12ab3c
+      projectPath: Library/Artifacts/42/425b1d6eea647ce6f4d728184c12ab3c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/46/4662bc979d8be02da72ddaae82d95287
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/46/4662bc979d8be02da72ddaae82d95287
+      projectPath: Library/Artifacts/46/4662bc979d8be02da72ddaae82d95287
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/51/515c37ed7b91e110eb36f15a14fc6266
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/51/515c37ed7b91e110eb36f15a14fc6266
+      projectPath: Library/Artifacts/51/515c37ed7b91e110eb36f15a14fc6266
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/53/5375580ee1d2766c6c3fda77f5df476b
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/53/5375580ee1d2766c6c3fda77f5df476b
+      projectPath: Library/Artifacts/53/5375580ee1d2766c6c3fda77f5df476b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/54/54ec2cc3bbcfc3801b2518455e459a20
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/54/54ec2cc3bbcfc3801b2518455e459a20
+      projectPath: Library/Artifacts/54/54ec2cc3bbcfc3801b2518455e459a20
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/57/57bcbc7acde8b747509bb25b8bb4cfbc
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/57/57bcbc7acde8b747509bb25b8bb4cfbc
+      projectPath: Library/Artifacts/57/57bcbc7acde8b747509bb25b8bb4cfbc
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/58/589aaacf3ddef8f532fad177e9df89c6
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/58/589aaacf3ddef8f532fad177e9df89c6
+      projectPath: Library/Artifacts/58/589aaacf3ddef8f532fad177e9df89c6
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/58/58bda9b1fd535071d8ba23c639479cba
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/58/58bda9b1fd535071d8ba23c639479cba
+      projectPath: Library/Artifacts/58/58bda9b1fd535071d8ba23c639479cba
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/63/6378cd7ea723b9afc47c2037e5f4e2c7
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/63/6378cd7ea723b9afc47c2037e5f4e2c7
+      projectPath: Library/Artifacts/63/6378cd7ea723b9afc47c2037e5f4e2c7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/6e/6ea479cb407d3cc9731d815bd6c648d5
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/6e/6ea479cb407d3cc9731d815bd6c648d5
+      projectPath: Library/Artifacts/6e/6ea479cb407d3cc9731d815bd6c648d5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/71/71333a1cbd3740045cc78b14e9f7a565
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/71/71333a1cbd3740045cc78b14e9f7a565
+      projectPath: Library/Artifacts/71/71333a1cbd3740045cc78b14e9f7a565
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/73/733a09c418ec4e671b2aca5598073426
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/73/733a09c418ec4e671b2aca5598073426
+      projectPath: Library/Artifacts/73/733a09c418ec4e671b2aca5598073426
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/77/77eacabb777933b6991d75ee3abaceb5
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/77/77eacabb777933b6991d75ee3abaceb5
+      projectPath: Library/Artifacts/77/77eacabb777933b6991d75ee3abaceb5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/86/869eadf8b1f33cc40add9fdc8515a09c
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/86/869eadf8b1f33cc40add9fdc8515a09c
+      projectPath: Library/Artifacts/86/869eadf8b1f33cc40add9fdc8515a09c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/87/87be0196b41bcbb6ee4b44d52aa31f41
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/87/87be0196b41bcbb6ee4b44d52aa31f41
+      projectPath: Library/Artifacts/87/87be0196b41bcbb6ee4b44d52aa31f41
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/8a/8a2f4cbb941d07c81ee48462b8d3fe88
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/8a/8a2f4cbb941d07c81ee48462b8d3fe88
+      projectPath: Library/Artifacts/8a/8a2f4cbb941d07c81ee48462b8d3fe88
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/97/97bbc39a1a32faaa67d5d404ca4c55f5
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/97/97bbc39a1a32faaa67d5d404ca4c55f5
+      projectPath: Library/Artifacts/97/97bbc39a1a32faaa67d5d404ca4c55f5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/98/98056e1c4c69dc2b279f5ac1179fe3ac
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/98/98056e1c4c69dc2b279f5ac1179fe3ac
+      projectPath: Library/Artifacts/98/98056e1c4c69dc2b279f5ac1179fe3ac
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/9a/9ae29faf497fdd4d14e46ac917235cba
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/9a/9ae29faf497fdd4d14e46ac917235cba
+      projectPath: Library/Artifacts/9a/9ae29faf497fdd4d14e46ac917235cba
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/a1/a17ca1855efa8026b0e68af13c469484
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/a1/a17ca1855efa8026b0e68af13c469484
+      projectPath: Library/Artifacts/a1/a17ca1855efa8026b0e68af13c469484
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/a7/a7a71b2a3d4788b2384ef9cb2d46d3a4
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/a7/a7a71b2a3d4788b2384ef9cb2d46d3a4
+      projectPath: Library/Artifacts/a7/a7a71b2a3d4788b2384ef9cb2d46d3a4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/a8/a87102580a115be27724edf1e34194ee
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/a8/a87102580a115be27724edf1e34194ee
+      projectPath: Library/Artifacts/a8/a87102580a115be27724edf1e34194ee
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/aa/aa501a6cedd95f47956d69299505ff35
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/aa/aa501a6cedd95f47956d69299505ff35
+      projectPath: Library/Artifacts/aa/aa501a6cedd95f47956d69299505ff35
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/b5/b57f5c305ef18fada42b95c7f33f5951
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/b5/b57f5c305ef18fada42b95c7f33f5951
+      projectPath: Library/Artifacts/b5/b57f5c305ef18fada42b95c7f33f5951
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/b6/b69d32b0e38e5150f674cf5f8ac0899e
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/b6/b69d32b0e38e5150f674cf5f8ac0899e
+      projectPath: Library/Artifacts/b6/b69d32b0e38e5150f674cf5f8ac0899e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/b8/b885417f8dd833eb92fa799a9f99ff11
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/b8/b885417f8dd833eb92fa799a9f99ff11
+      projectPath: Library/Artifacts/b8/b885417f8dd833eb92fa799a9f99ff11
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/be/bef124dac4f1f9d7af0eb898e07e007b
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/be/bef124dac4f1f9d7af0eb898e07e007b
+      projectPath: Library/Artifacts/be/bef124dac4f1f9d7af0eb898e07e007b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/c1/c1aead4d59ccf95872f2e658c228790a
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/c1/c1aead4d59ccf95872f2e658c228790a
+      projectPath: Library/Artifacts/c1/c1aead4d59ccf95872f2e658c228790a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/c5/c545aedd5c9507546f3474ef93c20ff5
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/c5/c545aedd5c9507546f3474ef93c20ff5
+      projectPath: Library/Artifacts/c5/c545aedd5c9507546f3474ef93c20ff5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/d2/d2a545abf57c784f8310774fe2235446
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/d2/d2a545abf57c784f8310774fe2235446
+      projectPath: Library/Artifacts/d2/d2a545abf57c784f8310774fe2235446
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/d3/d31eedeff87ef24181a8fb736bd27410
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/d3/d31eedeff87ef24181a8fb736bd27410
+      projectPath: Library/Artifacts/d3/d31eedeff87ef24181a8fb736bd27410
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/d5/d57e37089569bc21e52eb2348a491f8c
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/d5/d57e37089569bc21e52eb2348a491f8c
+      projectPath: Library/Artifacts/d5/d57e37089569bc21e52eb2348a491f8c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/d6/d6132179b946c964157f7f30522c733c
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/d6/d6132179b946c964157f7f30522c733c
+      projectPath: Library/Artifacts/d6/d6132179b946c964157f7f30522c733c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/d6/d674677f8946d9c39f4ec2d835fa1938
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/d6/d674677f8946d9c39f4ec2d835fa1938
+      projectPath: Library/Artifacts/d6/d674677f8946d9c39f4ec2d835fa1938
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/e2/e27cc29d45902f36a2e26389312f04b2
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/e2/e27cc29d45902f36a2e26389312f04b2
+      projectPath: Library/Artifacts/e2/e27cc29d45902f36a2e26389312f04b2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/e6/e69676016e6e92d7e680fd4e8aae8d34
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/e6/e69676016e6e92d7e680fd4e8aae8d34
+      projectPath: Library/Artifacts/e6/e69676016e6e92d7e680fd4e8aae8d34
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/Artifacts/ff/ff68048a52f2b1dcc2f029c663f77451
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/Artifacts/ff/ff68048a52f2b1dcc2f029c663f77451
+      projectPath: Library/Artifacts/ff/ff68048a52f2b1dcc2f029c663f77451
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/CurrentLayout-default.dwlt
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/CurrentLayout-default.dwlt
+      projectPath: Library/CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/EditorInstance.json
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/EditorInstance.json
+      projectPath: Library/EditorInstance.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/InspectorExpandedItems.asset
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/InspectorExpandedItems.asset
+      projectPath: Library/InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/SceneVisibilityState.asset
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/SceneVisibilityState.asset
+      projectPath: Library/SceneVisibilityState.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/ScriptAssemblies/Assembly-CSharp.dll
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/ScriptAssemblies/Assembly-CSharp.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/ScriptAssemblies/Unity.Rider.Editor.dll
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/ScriptAssemblies/Unity.Rider.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.Rider.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/ScriptAssemblies/Unity.TextMeshPro.dll
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/ScriptAssemblies/Unity.TextMeshPro.dll
+      projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/ScriptAssemblies/Unity.Timeline.dll
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/ScriptAssemblies/Unity.Timeline.dll
+      projectPath: Library/ScriptAssemblies/Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+      projectPath: Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+      projectPath: Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/ScriptAssemblies/UnityEditor.UI.dll
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/ScriptAssemblies/UnityEditor.UI.dll
+      projectPath: Library/ScriptAssemblies/UnityEditor.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+      projectPath: Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/ScriptAssemblies/UnityEngine.UI.dll
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/ScriptAssemblies/UnityEngine.UI.dll
+      projectPath: Library/ScriptAssemblies/UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/ShaderCache/0/092c7ed03b66c132e33899642e9ac1ce.bin
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/ShaderCache/0/092c7ed03b66c132e33899642e9ac1ce.bin
+      projectPath: Library/ShaderCache/0/092c7ed03b66c132e33899642e9ac1ce.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/ShaderCache/3/33b813b20a6cf925694dabd5146931bb.bin
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/ShaderCache/3/33b813b20a6cf925694dabd5146931bb.bin
+      projectPath: Library/ShaderCache/3/33b813b20a6cf925694dabd5146931bb.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/ShaderCache/3/3f1a23fd538dc78f08505b2acca186fa.bin
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/ShaderCache/3/3f1a23fd538dc78f08505b2acca186fa.bin
+      projectPath: Library/ShaderCache/3/3f1a23fd538dc78f08505b2acca186fa.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/ShaderCache/7/7ddf01e1cc45ab1ac0e4f8e3c2656aec.bin
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/ShaderCache/7/7ddf01e1cc45ab1ac0e4f8e3c2656aec.bin
+      projectPath: Library/ShaderCache/7/7ddf01e1cc45ab1ac0e4f8e3c2656aec.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/ShaderCache/9/91f78591da0b06738bd39ad50ce30a86.bin
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/ShaderCache/9/91f78591da0b06738bd39ad50ce30a86.bin
+      projectPath: Library/ShaderCache/9/91f78591da0b06738bd39ad50ce30a86.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/ShaderCache/EditorEncounteredVariants
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/ShaderCache/EditorEncounteredVariants
+      projectPath: Library/ShaderCache/EditorEncounteredVariants
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/ShaderCache/a/a3bd59f41a97937c311ffd5a22d9519c.bin
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/ShaderCache/a/a3bd59f41a97937c311ffd5a22d9519c.bin
+      projectPath: Library/ShaderCache/a/a3bd59f41a97937c311ffd5a22d9519c.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/ShaderCache/c/cef1f57cbda39049cf5f114f910c5b0d.bin
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/ShaderCache/c/cef1f57cbda39049cf5f114f910c5b0d.bin
+      projectPath: Library/ShaderCache/c/cef1f57cbda39049cf5f114f910c5b0d.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/ShaderCache/d/d124d46a73d14cac7c35659351b3663d.bin
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/ShaderCache/d/d124d46a73d14cac7c35659351b3663d.bin
+      projectPath: Library/ShaderCache/d/d124d46a73d14cac7c35659351b3663d.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/ShaderCache/d/d72bff046d07e87fbf6dc636fcb13e2d.bin
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/ShaderCache/d/d72bff046d07e87fbf6dc636fcb13e2d.bin
+      projectPath: Library/ShaderCache/d/d72bff046d07e87fbf6dc636fcb13e2d.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/ShaderCache/e/e51ec34c65d3711ed399b843f30537b8.bin
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/ShaderCache/e/e51ec34c65d3711ed399b843f30537b8.bin
+      projectPath: Library/ShaderCache/e/e51ec34c65d3711ed399b843f30537b8.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/SourceAssetDB
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/SourceAssetDB
+      projectPath: Library/SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/StateCache/Hierarchy/838534-mainStage.json
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/StateCache/Hierarchy/838534-mainStage.json
+      projectPath: Library/StateCache/Hierarchy/838534-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/StateCache/SceneView/957e05-mainStage.json
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/StateCache/SceneView/957e05-mainStage.json
+      projectPath: Library/StateCache/SceneView/957e05-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/gfu/cache/gituser.yaml
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/gfu/cache/gituser.yaml
+      projectPath: Library/gfu/cache/gituser.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/gfu/cache/repoinfo.yaml
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/gfu/cache/repoinfo.yaml
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/shadercompiler-UnityShaderCompiler0.log
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/shadercompiler-UnityShaderCompiler0.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/shadercompiler-UnityShaderCompiler1.log
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/shadercompiler-UnityShaderCompiler1.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler1.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/shadercompiler-UnityShaderCompiler2.log
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/shadercompiler-UnityShaderCompiler2.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler2.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/shadercompiler-UnityShaderCompiler3.log
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/shadercompiler-UnityShaderCompiler3.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler3.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Library/shadercompiler-UnityShaderCompiler4.log
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Library/shadercompiler-UnityShaderCompiler4.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler4.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Temp/UnityLockfile
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Temp/UnityLockfile
+      projectPath: Temp/UnityLockfile
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Temp/UnityTempFile-0f54d1286a8de4ff284e38e85150e841
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Temp/UnityTempFile-0f54d1286a8de4ff284e38e85150e841
+      projectPath: Temp/UnityTempFile-0f54d1286a8de4ff284e38e85150e841
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Temp/UnityTempFile-17f4437fdbe8b43dcac792536fe06e12
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Temp/UnityTempFile-17f4437fdbe8b43dcac792536fe06e12
+      projectPath: Temp/UnityTempFile-17f4437fdbe8b43dcac792536fe06e12
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Temp/UnityTempFile-19cdd7735c1e54f82aa9135a5f0dfddf
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Temp/UnityTempFile-19cdd7735c1e54f82aa9135a5f0dfddf
+      projectPath: Temp/UnityTempFile-19cdd7735c1e54f82aa9135a5f0dfddf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Temp/UnityTempFile-1e8134c83740245bf94af99cf744f84b
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Temp/UnityTempFile-1e8134c83740245bf94af99cf744f84b
+      projectPath: Temp/UnityTempFile-1e8134c83740245bf94af99cf744f84b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Temp/UnityTempFile-2b04fbead333a4bfd80fef30cf5045b9
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Temp/UnityTempFile-2b04fbead333a4bfd80fef30cf5045b9
+      projectPath: Temp/UnityTempFile-2b04fbead333a4bfd80fef30cf5045b9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Temp/UnityTempFile-2c07587507dac4a6aa137b4cffd8cedb
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Temp/UnityTempFile-2c07587507dac4a6aa137b4cffd8cedb
+      projectPath: Temp/UnityTempFile-2c07587507dac4a6aa137b4cffd8cedb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Temp/UnityTempFile-2fbb2cbb34ea643189cfbb79f698961e
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Temp/UnityTempFile-2fbb2cbb34ea643189cfbb79f698961e
+      projectPath: Temp/UnityTempFile-2fbb2cbb34ea643189cfbb79f698961e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Temp/UnityTempFile-31aeec354c15c4c18b0ac396a4c2d50a
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Temp/UnityTempFile-31aeec354c15c4c18b0ac396a4c2d50a
+      projectPath: Temp/UnityTempFile-31aeec354c15c4c18b0ac396a4c2d50a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Temp/UnityTempFile-336767243068c4788a38285cf07d1158
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Temp/UnityTempFile-336767243068c4788a38285cf07d1158
+      projectPath: Temp/UnityTempFile-336767243068c4788a38285cf07d1158
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Temp/UnityTempFile-4013fa9ae862743fab7bcb3c914edef8
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Temp/UnityTempFile-4013fa9ae862743fab7bcb3c914edef8
+      projectPath: Temp/UnityTempFile-4013fa9ae862743fab7bcb3c914edef8
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Temp/UnityTempFile-40957035fc7bd4b9791439ee954511d8
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Temp/UnityTempFile-40957035fc7bd4b9791439ee954511d8
+      projectPath: Temp/UnityTempFile-40957035fc7bd4b9791439ee954511d8
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Temp/UnityTempFile-4bf8bfd7b9e964e0c9cd7243ef9d5302
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Temp/UnityTempFile-4bf8bfd7b9e964e0c9cd7243ef9d5302
+      projectPath: Temp/UnityTempFile-4bf8bfd7b9e964e0c9cd7243ef9d5302
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Temp/UnityTempFile-5335d9e1d4ed8428fbec00d7abf5e0bb
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Temp/UnityTempFile-5335d9e1d4ed8428fbec00d7abf5e0bb
+      projectPath: Temp/UnityTempFile-5335d9e1d4ed8428fbec00d7abf5e0bb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Temp/UnityTempFile-535e0eeb78e324e119a8da3af99aedd8
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Temp/UnityTempFile-535e0eeb78e324e119a8da3af99aedd8
+      projectPath: Temp/UnityTempFile-535e0eeb78e324e119a8da3af99aedd8
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Temp/UnityTempFile-55969363728a644ab88ce3e3fcd60baa
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Temp/UnityTempFile-55969363728a644ab88ce3e3fcd60baa
+      projectPath: Temp/UnityTempFile-55969363728a644ab88ce3e3fcd60baa
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Temp/UnityTempFile-91e069912631a429fbb0a2e07e825607
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Temp/UnityTempFile-91e069912631a429fbb0a2e07e825607
+      projectPath: Temp/UnityTempFile-91e069912631a429fbb0a2e07e825607
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Temp/UnityTempFile-a708e89cc07f5422994fc39170f5ee07
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Temp/UnityTempFile-a708e89cc07f5422994fc39170f5ee07
+      projectPath: Temp/UnityTempFile-a708e89cc07f5422994fc39170f5ee07
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Temp/UnityTempFile-aa1c59f2e39934bbf93cd5a125209aa3
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Temp/UnityTempFile-aa1c59f2e39934bbf93cd5a125209aa3
+      projectPath: Temp/UnityTempFile-aa1c59f2e39934bbf93cd5a125209aa3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Temp/UnityTempFile-b39680b9e647e454b9d0ddf75d13e23f
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Temp/UnityTempFile-b39680b9e647e454b9d0ddf75d13e23f
+      projectPath: Temp/UnityTempFile-b39680b9e647e454b9d0ddf75d13e23f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Temp/UnityTempFile-c62310436e39c43f4b15728ca5ff389c
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Temp/UnityTempFile-c62310436e39c43f4b15728ca5ff389c
+      projectPath: Temp/UnityTempFile-c62310436e39c43f4b15728ca5ff389c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Temp/UnityTempFile-ca5d27f6973764a4391767c258dc3c7e
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Temp/UnityTempFile-ca5d27f6973764a4391767c258dc3c7e
+      projectPath: Temp/UnityTempFile-ca5d27f6973764a4391767c258dc3c7e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Temp/UnityTempFile-cf5863ad2081a477584fa118797f8e55
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Temp/UnityTempFile-cf5863ad2081a477584fa118797f8e55
+      projectPath: Temp/UnityTempFile-cf5863ad2081a477584fa118797f8e55
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Temp/UnityTempFile-cf838e63e8388472798b47278a891d47
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Temp/UnityTempFile-cf838e63e8388472798b47278a891d47
+      projectPath: Temp/UnityTempFile-cf838e63e8388472798b47278a891d47
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Temp/UnityTempFile-d00dc0bb84407490094dc79f3265a6cc
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Temp/UnityTempFile-d00dc0bb84407490094dc79f3265a6cc
+      projectPath: Temp/UnityTempFile-d00dc0bb84407490094dc79f3265a6cc
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Temp/UnityTempFile-d1e031a6739814d80ada253aed9ccd3a
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Temp/UnityTempFile-d1e031a6739814d80ada253aed9ccd3a
+      projectPath: Temp/UnityTempFile-d1e031a6739814d80ada253aed9ccd3a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Temp/UnityTempFile-dd44da76af3a645ee91b742fe8e5a59c
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Temp/UnityTempFile-dd44da76af3a645ee91b742fe8e5a59c
+      projectPath: Temp/UnityTempFile-dd44da76af3a645ee91b742fe8e5a59c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Temp/UnityTempFile-e6e950e5c891d48d0aeaf3ca63c7ca17
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Temp/UnityTempFile-e6e950e5c891d48d0aeaf3ca63c7ca17
+      projectPath: Temp/UnityTempFile-e6e950e5c891d48d0aeaf3ca63c7ca17
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Temp/UnityTempFile-e845a0c4a48a544d1be420a960ccc4ab
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Temp/UnityTempFile-e845a0c4a48a544d1be420a960ccc4ab
+      projectPath: Temp/UnityTempFile-e845a0c4a48a544d1be420a960ccc4ab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Temp/UnityTempFile-f07ebf09c6a7744a6bbe481c449fa953
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Temp/UnityTempFile-f07ebf09c6a7744a6bbe481c449fa953
+      projectPath: Temp/UnityTempFile-f07ebf09c6a7744a6bbe481c449fa953
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Temp/UnityTempFile-f9f9e86f39c934391817520f2ae4541b
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Temp/UnityTempFile-f9f9e86f39c934391817520f2ae4541b
+      projectPath: Temp/UnityTempFile-f9f9e86f39c934391817520f2ae4541b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Temp/UnityTempFile-fb9bc82cd6b9148469f8495607f154a9
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Temp/UnityTempFile-fb9bc82cd6b9148469f8495607f154a9
+      projectPath: Temp/UnityTempFile-fb9bc82cd6b9148469f8495607f154a9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/Temp/__Backupscenes/0.backup
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/Temp/__Backupscenes/0.backup
+      projectPath: Temp/__Backupscenes/0.backup
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: IntroUnitySummer2/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+      fullPath: /Users/acrouch1557/Downloads/GitHub/GameheadsGitClass2/IntroUnitySummer2/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+      projectPath: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
   - commitID: a7228ab1fedcd0692f5fb5b89e174e73a36f79e8
     mergeA: 
     mergeB: 
